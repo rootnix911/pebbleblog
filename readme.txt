@@ -1,4 +1,8 @@
-Pebble
+Pebble for testing Jenkins+Maven @nix 2015
+test
+test
+test
+
 --------------------------------
 The prerequisites are as follows.
 
