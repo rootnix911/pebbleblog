@@ -5,8 +5,7 @@
     <artifactId>pebble</artifactId>
     <packaging>war</packaging>
     <version>2.6.5-SNAPSHOT</version>
-    <finalName>blog-${build.name}</finalName>
-
+    
     <name>Pebble</name>
     <description>A lightweight, open source, Java EE blogging tool</description>
     <url>http://pebble.sourceforge.net</url>
