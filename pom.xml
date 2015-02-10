@@ -323,6 +323,7 @@
                 <configuration>
                     <archiveClasses>true</archiveClasses>
                     <attachClasses>true</attachClasses>
+                    <warName>${project.artifactId}-${project.version}</warName>
                 </configuration>
             </plugin>
             <plugin>
