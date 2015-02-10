@@ -4,7 +4,7 @@
     <groupId>org.sourceforge.pebble</groupId>
     <artifactId>pebble</artifactId>
     <packaging>war</packaging>
-    <version>2.6.5-SNAPSHOT</version>
+    <version>nix</version>
     
     <name>Pebble</name>
     <description>A lightweight, open source, Java EE blogging tool</description>
