@@ -4,8 +4,7 @@
     <groupId>org.sourceforge.pebble</groupId>
     <artifactId>pebble</artifactId>
     <packaging>war</packaging>
-    <version>nix</version>
-    <buildNumber>${env.BUILD_NUMBER}</buildNumber>
+    <version>${env.BUILD_NUMBER}</version>
     
     <name>Pebble</name>
     <description>A lightweight, open source, Java EE blogging tool</description>
