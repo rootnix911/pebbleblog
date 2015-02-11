@@ -5,6 +5,7 @@
     <artifactId>pebble</artifactId>
     <packaging>war</packaging>
     <version>nix</version>
+    <buildNumber>${env.BUILD_NUMBER}</buildNumber>
     
     <name>Pebble</name>
     <description>A lightweight, open source, Java EE blogging tool</description>
